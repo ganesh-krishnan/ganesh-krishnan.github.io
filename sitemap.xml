@@ -7,11 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://ganesh-krishnan.github.io/</loc>
-  <lastmod>2020-01-12T02:11:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ganesh-krishnan.github.io/2012/</loc>
-  <lastmod>2020-01-12T02:04:00Z</lastmod>
+  <lastmod>2020-01-12T02:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://ganesh-krishnan.github.io/2020/</loc>
@@ -19,51 +15,15 @@
  </url>
  <url>
   <loc>https://ganesh-krishnan.github.io/archive.html</loc>
-  <lastmod>2020-01-12T02:11:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ganesh-krishnan.github.io/authors/</loc>
-  <lastmod>2020-01-12T02:11:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ganesh-krishnan.github.io/authors/ganesh-krishnan/</loc>
-  <lastmod>2020-01-12T02:11:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ganesh-krishnan.github.io/authors/roberto-alsina/</loc>
-  <lastmod>2020-01-12T02:11:00Z</lastmod>
+  <lastmod>2020-01-12T02:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://ganesh-krishnan.github.io/categories/</loc>
-  <lastmod>2020-01-12T02:04:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ganesh-krishnan.github.io/categories/blog/</loc>
-  <lastmod>2020-01-12T02:04:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ganesh-krishnan.github.io/categories/cat_nikola/</loc>
-  <lastmod>2020-01-12T02:04:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ganesh-krishnan.github.io/categories/demo/</loc>
-  <lastmod>2020-01-12T02:04:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ganesh-krishnan.github.io/categories/nikola/</loc>
-  <lastmod>2020-01-12T02:04:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ganesh-krishnan.github.io/categories/python/</loc>
-  <lastmod>2020-01-12T02:04:00Z</lastmod>
+  <lastmod>2020-01-12T02:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://ganesh-krishnan.github.io/galleries/</loc>
-  <lastmod>2020-01-12T02:04:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ganesh-krishnan.github.io/galleries/demo/</loc>
-  <lastmod>2020-01-12T02:04:00Z</lastmod>
+  <lastmod>2020-01-12T02:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://ganesh-krishnan.github.io/listings/</loc>
@@ -75,7 +35,7 @@
  </url>
  <url>
   <loc>https://ganesh-krishnan.github.io/listings/hello.py.html</loc>
-  <lastmod>2020-01-12T02:11:00Z</lastmod>
+  <lastmod>2020-01-12T02:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://ganesh-krishnan.github.io/pages/about-nikola/</loc>
@@ -136,9 +96,5 @@
  <url>
   <loc>https://ganesh-krishnan.github.io/posts/hello-world/</loc>
   <lastmod>2020-01-12T02:17:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ganesh-krishnan.github.io/posts/welcome-to-nikola/</loc>
-  <lastmod>2020-01-12T02:04:00Z</lastmod>
  </url>
 </urlset>
