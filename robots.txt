@@ -1,0 +1,4 @@
+Sitemap: https://ganesh-krishnan.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: ganesh-krishnan.github.io
