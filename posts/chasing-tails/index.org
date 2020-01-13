@@ -3,7 +3,7 @@
 .. title: Chasing Tails
 .. slug: chasing-tails
 .. date: 2020-01-12 18:26:56 UTC-08:00
-.. tags: 
+.. tags: poetry
 .. category: 
 .. link: 
 .. description: 
